@@ -1,11 +1,17 @@
 # 💫 Hakkımda:
-Merhaba, ben Güney. .NET teknolojileri üzerine uzmanlaşmış bir backend developerım ve ERP sistemleri geliştirme konusunda derinlemesine deneyim sahibiyim. Uyumsoft altyapısı kullanarak sıfırdan geliştirdiğim personel devam kontrol sistemi (PDKS) ve Türkiye İhracatçılar Meclisi (TİM) için yazdığım bütçe modülü, iş süreçlerini iyileştirme ve özel çözümler üretme konusundaki yetkinliklerimi ortaya koyuyor.
+Merhaba, ben Güney. .NET teknolojileri üzerine uzmanlaşmış bir Backend Developer olarak ERP sistemleri ve iş süreç otomasyonu alanında çalışıyorum.
 
-.NET teknolojilerini etkin bir şekilde kullanarak, işletmelerin ihtiyaçlarına yönelik güçlü ve güvenilir yazılım çözümleri geliştiriyorum. Ayrıca, Selenium ile otomasyon projeleri gerçekleştirerek, operasyonel verimliliği artırmayı hedefliyorum.
+Türkiye İhracatçılar Meclisi (TİM) için geliştirdiğim Bütçe Modülü ve Uyumsoft altyapısıyla sıfırdan yazdığım Personel Devam Kontrol Sistemi (PDKS), büyük ölçekli projelerdeki yetkinliğimi ve problem çözme becerilerimi ortaya koyuyor.
 
-Geçmişte Google Developer Student Clubs üyesi olarak yazılım eğitimleri verdim ve topluluk içinde bilgi paylaşımına aktif olarak katkı sağladım. Bu deneyim, teknik bilgi birikimimi ve öğrenmeye olan tutkumun daha da pekişmesine yardımcı oldu.
+.NET ekosisteminde C#, DevExpress XAF, Blazor, Entity Framework Core gibi teknolojileri etkin bir şekilde kullanarak, işletmelerin ihtiyaçlarına yönelik güçlü, ölçeklenebilir ve güvenilir yazılım çözümleri geliştiriyorum. Aynı zamanda Python & Selenium ile otomasyon projeleri üreterek operasyonel süreçleri optimize ediyorum.
 
-Meslek lisesinde web programcılığı bölümünden ve okuldan birincilikle mezun oldum. Bu başarı, hem akademik hem de profesyonel hedeflerime ulaşmada motivasyon kaynağım oldu.
+Geçmişte Google Developer Student Clubs (GDSC) Türkiye üyesi olarak yazılım eğitimleri verdim ve teknik topluluklarda bilgi paylaşımına aktif olarak katkı sağladım.
+
+Meslek lisesinde Web Programcılığı bölümünü ve okulumu birincilikle tamamladım. Bu başarı, hem akademik hem de profesyonel gelişimimde bana büyük motivasyon sağladı.
+
+Yeni teknolojileri keşfetmeye, ölçeklenebilir yazılım çözümleri üretmeye ve en iyi yazılım geliştirme uygulamalarını takip etmeye devam ediyorum.
+
+📩 Bağlantı kurmak veya birlikte çalışmak için benimle iletişime geçebilirsiniz!
 
 ## 🌐 Sosyal Medya:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guneyybircann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guney-bircan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@guneybircan) 
