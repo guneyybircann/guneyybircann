@@ -1,23 +1,39 @@
-# 💫 Hakkımda:
-Merhaba, ben Güney. .NET teknolojileri üzerine uzmanlaşmış bir Backend Developer olarak ERP sistemleri ve iş süreç otomasyonu alanında çalışıyorum.
+<h1 align="center">Hi, I'm Güney 👋</h1>
+<p align="center">
+  A full-stack developer focused on building smart, AI-powered web applications.
+</p>
 
-Türkiye İhracatçılar Meclisi (TİM) için geliştirdiğim Bütçe Modülü ve Uyumsoft altyapısıyla sıfırdan yazdığım Personel Devam Kontrol Sistemi (PDKS), büyük ölçekli projelerdeki yetkinliğimi ve problem çözme becerilerimi ortaya koyuyor.
+---
 
-.NET ekosisteminde C#, DevExpress XAF, Blazor, Entity Framework Core gibi teknolojileri etkin bir şekilde kullanarak, işletmelerin ihtiyaçlarına yönelik güçlü, ölçeklenebilir ve güvenilir yazılım çözümleri geliştiriyorum. Aynı zamanda Python & Selenium ile otomasyon projeleri üreterek operasyonel süreçleri optimize ediyorum.
+### 🧑‍💻 About Me
 
-Geçmişte Google Developer Student Clubs (GDSC) Türkiye üyesi olarak yazılım eğitimleri verdim ve teknik topluluklarda bilgi paylaşımına aktif olarak katkı sağladım.
+- 🎯 Full-stack developer with a strong background in **.NET**, **ERP systems**, and **business automation**
+- 🌐 Currently working with **React**, **Next.js**, **TypeScript**, and **FastAPI** to build intelligent web platforms
+- 🤖 Experienced in **Python & Selenium** for automation and process optimization
+- 📣 Former core team member at **Google Developer Student Clubs (GDSC) Turkey**, delivering tech workshops
+- 🎓 Graduated top of class in Web Programming & completed an associate degree in Computer Programming
 
-Meslek lisesinde Web Programcılığı bölümünü ve okulumu birincilikle tamamladım. Bu başarı, hem akademik hem de profesyonel gelişimimde bana büyük motivasyon sağladı.
+---
 
-Yeni teknolojileri keşfetmeye, ölçeklenebilir yazılım çözümleri üretmeye ve en iyi yazılım geliştirme uygulamalarını takip etmeye devam ediyorum.
+### 🔧 Tech Stack
 
-📩 Bağlantı kurmak veya birlikte çalışmak için benimle iletişime geçebilirsiniz!
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000) 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss)
 
-## 🌐 Sosyal Medya:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guneyybircann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guney-bircan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@guneybircan) 
+**Backend**  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)  
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
 
-# 💻 Teknolojiler:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+**Automation**  
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)
 
+---
+
+### 🔗 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/guneybircan)  
+- 📬 Feel free to reach out or collaborate on something exciting!
